@@ -157,10 +157,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -1, y: 0}
+  scrollPos: {x: 7.494995, y: 2}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 400
+  blockViewHeight: 733
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -170,8 +170,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 8136958}
-  selectedCommands:
-  - {fileID: 8136957}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -302,7 +301,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8136957
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -316,7 +315,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &8136958
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -328,8 +327,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 104
-    y: 254
+    x: 102
+    y: 255
     width: 98.009995
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -343,7 +342,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &8136959
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -355,7 +354,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 8136958}
   suppressBlockAutoSelect: 0
-  targetButton: {fileID: 0}
+  targetButton: {fileID: 2053251897}
 --- !u!1 &441153870
 GameObject:
   m_ObjectHideFlags: 0
